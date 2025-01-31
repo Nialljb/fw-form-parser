@@ -54,7 +54,7 @@ MIT License
 
 ### Outputs
 
-No outputs
+PDF report containing plots summarising QC ratings across time and site activity. 
 
 #### Metadata
 
