@@ -1,5 +1,5 @@
 # Visual QC Annotation Tagging Gear
-This gear tags acquisition containers with the labels from visual QC reader tasks
+This gear tags acquisition containers and NIFTI files with the labels from visual QC reader tasks, and provides a QC report about site activity and engagement, and the quality of scans attempted over time.
 
 ## Overview
 
